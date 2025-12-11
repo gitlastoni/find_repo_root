@@ -1,0 +1,14 @@
+# Stata log files
+*.log
+
+# Temporary files
+*.tmp
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Test output
+test_*.log
+
