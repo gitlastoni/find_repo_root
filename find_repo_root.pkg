@@ -1,0 +1,8 @@
+v 3
+d find_repo_root
+d Locate repository root by searching for markers
+d 
+d Requires: Stata version 17
+f find_repo_root.ado
+f find_repo_root.sthlp
+

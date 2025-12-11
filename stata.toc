@@ -1,0 +1,5 @@
+v 1
+d find_repo_root - Locate repository root by searching for markers
+f find_repo_root.ado
+f find_repo_root.sthlp
+
